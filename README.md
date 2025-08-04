@@ -1,6 +1,13 @@
 # Purwadhika-Capstone-3
+
 Proyek dari Purwadhika JCBDA
 
-Notes:
--Because CAPSTONE3.ipynb file is too big, it has been compressed to a zip file under the name CAPSTONE3ipynb.zip
--There is also a HTML file to view the Capstone 3 Jupyter Notebook
+---
+
+# Notes:
+
+- Karena file `CAPSTONE3.ipynb` terlalu besar (>100MB), file tersebut telah dikompres menjadi **ZIP**:  
+  ➤ `CAPSTONE3ipynb.zip`
+
+- Terdapat juga file **HTML** untuk melihat isi Jupyter Notebook tanpa perlu menjalankannya:
+  ➤ `CAPSTONE3.html`
