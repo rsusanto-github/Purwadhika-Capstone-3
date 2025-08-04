@@ -9,5 +9,5 @@ Proyek dari Purwadhika JCBDA
 - Karena file `CAPSTONE3.ipynb` terlalu besar (>100MB), file tersebut telah dikompres menjadi **ZIP**:  
   ➤ `CAPSTONE3ipynb.zip`
 
-- Terdapat juga file **HTML** untuk melihat isi Jupyter Notebook tanpa perlu menjalankannya:
+- Terdapat juga file **HTML** untuk di download dan lebih cepat untuk dilihat.
   ➤ `CAPSTONE3.html`
